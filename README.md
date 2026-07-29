@@ -1,5 +1,4 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-# Netflix Movies and TV Shows Data Analysis using SQL
 
 <p align="center">
   <img src="logo.png" alt="Netflix Analysis Logo" width="300"/>
